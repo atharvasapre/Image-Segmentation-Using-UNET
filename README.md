@@ -14,8 +14,8 @@ This project aims to enhance the accuracy of semantic segmentation tasks using a
 The CityScapes Image Pairs Dataset was used for training and evaluation, consisting of urban street scenes with detailed pixel-level annotations.
 
 ## Results
-[Summary of the performance of each model, highlighting Swin-Unet's superior accuracy and efficiency.
+![Summary of the performance of each model, highlighting Swin-Unet's superior accuracy and efficiency.
 ](https://github.com/atharvasapre/Image-Segmentation-Using-UNET/blob/main/Images/image_segmentation_results.png)
 
-[Inference](https://github.com/atharvasapre/Image-Segmentation-Using-UNET/blob/main/Images/inference.png)
+![Inference](https://github.com/atharvasapre/Image-Segmentation-Using-UNET/blob/main/Images/inference.png)
 
